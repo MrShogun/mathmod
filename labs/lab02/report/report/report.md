@@ -182,7 +182,7 @@ savefig(plt2, "image/lab02_2.png")
 
 ## Полученные графики
 
-![Первый случай](image/lab02_1.png){#fig:001 width=70%} 
+![Первый случай](image/lab02_1.png){#fig:001 width=70%}
 
 ![Второй случай](image/lab02_2.png){#fig:002 width=70%}
 
